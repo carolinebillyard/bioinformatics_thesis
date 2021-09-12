@@ -10,6 +10,7 @@ FASTA files including all sequences used as seeds:
 *.png
 *************************************
 Subsetted phylogenies annotated with their correlating ancestral genes
+      OR1_trub.png shows the distribution of ancestral genes found with Takifugu rubripes seed sequences BLASTed against OR1
       OR2_drer.png shows the distribution of ancestral genes found with Danio rerio seed sequences BLASTed against OR2
       OR3_ggal.png shows the distribution of ancestral genes found with Gallus gallus seed sequences BLASTed against OR3
 
